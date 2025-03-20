@@ -1,0 +1,552 @@
+[
+    {
+        "question": "Warum sind CT- oder PET-CT-Scans nicht in der Nachsorge empfohlen?",
+        "context": [
+            "Zum Diagnosezeitpunkt und im Verlauf der Therapie muss die Strahlenbelastung durch die bildgebenden Verfahren CT bzw. PET/CT in Kauf genommen werden. Internationale Leitlinien raten jedoch davon ab, diese Verfahren als Routinemaßnahme in der Nachsorge anzuwenden. Meistens merken die Patienten selbst frühzeitig, wenn etwas mit ihnen nicht stimmt, und das ausführliche Gespräch mit dem Arzt sollte nicht durch unnötige CTs ersetzt werden. Selbst-verständlich sind bildgebende Verfahren immer dann notwendig, wenn sich ein Rückfall andeutet, etwa wenn wieder B-Symptome auftreten. Langzeit-Nebenwirkungen Im CHOP-Protokoll ist eine Substanz enthalten, die das Herz schädigt (Doxorubicin). Es gibt bestimmte, beeinflussbare Faktoren, die das Risiko für Herz-Kreislauf-Erkrankungen steigern, wie z.B. erhöhtes Cholesterin, Diabetes, Rauchen, Übergewicht. Daher wird den Patienten geraten, durch einen gesunden Lebenswandel diese zusätzlichen Risiken für das Herz zu minimieren. Sollte ein Bluthochdruck vorliegen, so muss dieser medikamentös behandelt werden."
+        ],
+        "context_ids": [
+            "c95fcfa2-6ce8-49ef-a7c8-f85a2c8bc280"
+        ],
+        "answer": "CT- und PET-CT-Scans können viel Strahlenbelastung verursachen, und die Ärzte glauben, dass sie nicht nötig sind, solange die Patienten keine neuen Symptome bemerken. Es ist wichtiger, dass die Patienten ein offenes Gespräch mit ihrem Arzt führen, anstatt regelmäßig diese Scans zu machen, es sei denn, es gibt Anzeichen für einen Rückfall.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind die Symptome des Mantelzell-Lymphoms?",
+        "context": [
+            "Symptome Bei einigen Patienten mit Mantelzell-Lymphom sind die Lymphknoten vergrößert. Manchmal ist die Krankheit aber auch nur im Blut nachweisbar. Die Erkrankung müsste dann genaugenommen nicht Mantelzell-„Lymphom“, sondern Mantelzell-„Leukämie“ heißen."
+        ],
+        "context_ids": [
+            "91f9d5e3-479f-4c5b-863e-6d4b7645c0bc"
+        ],
+        "answer": "Bei einigen Patienten mit Mantelzell-Lymphom sind die Lymphknoten vergrößert. In anderen Fällen kann die Krankheit auch nur im Blut nachgewiesen werden.",
+        "keep": "y"
+    },
+    {
+        "question": "Warum muss ich beim Mantelzell-Lymphom nicht sofort mit der Behandlung beginnen?",
+        "context": [
+            "Watch and Wait Bei einem Teil der Patienten mit MantelzellLymphom mit niedriger Lymphomlast verläuft die Erkrankung langsam und schleichend. In diesem Fall muss nicht sofort mit einer Behandlung begonnen werden. Man kann zunächst abwarten und den weiteren Verlauf beobachten (sog. „Watch and Wait“-Strategie). Gewisse Rückschlüsse erlaubt der PrognoseIndex „MIPI“, aussagekräftiger sind eine blastoide Zytologie, der Proliferations-Marker Ki-67 >30% oder eine p53 Mutation. Das Europäische Mantelzell-Lymphom Netzwerk stellt für die Bestimmung der Risikogruppe gemäß MIPI-Index eine Eingabemaske zur Verfügung, siehe: www.european-mcl.net/en/clinical_mipi.php"
+        ],
+        "context_ids": [
+            "06a0217d-e7a2-4ef5-bfde-d01c43ab45ec"
+        ],
+        "answer": "Bei einigen Patienten mit Mantelzell-Lymphom verläuft die Krankheit langsam. Wenn die Lymphomlast niedrig ist, kann man zunächst abwarten und den Verlauf beobachten, anstatt sofort eine Behandlung zu starten. Dies nennt man die „Watch and Wait“-Strategie.",
+        "keep": "y"
+    },
+    {
+        "question": "Warum sollte ich meinen gelben Impfausweis zum Arzt mitbringen?",
+        "context": [
+            "Dieser Artikel soll für Patienten eine erste Handreichung sein. Wenn er dazu beiträgt, dass Betroffene beim nächsten Arztbesuch ihren gelben Impfausweis mit der Bitte um Überprüfung vorlegen, ist ein guter Anfang gemacht. Generell gilt, dass alle Impfungen konkret mit dem Hausarzt oder Onkologen besprochen werden sollten. Zur Vertiefung von Details finden sich am Ende des Textes weiterführende Hinweise."
+        ],
+        "context_ids": [
+            "1975ef42-e229-4c2a-ba78-c34eea98c241"
+        ],
+        "answer": "Es ist wichtig, den gelben Impfausweis zum Arzt mitzubringen, damit der Arzt überprüfen kann, welche Impfungen Sie bereits haben. Dies hilft sicherzustellen, dass Sie alle notwendigen Impfungen erhalten, besonders wenn Sie an einer Erkrankung leiden, die zusätzliche Vorsicht erfordert.",
+        "keep": "y"
+    },
+    {
+        "question": "Was ist das GMALL-Register und warum ist es wichtig für meine Behandlung?",
+        "context": [
+            "Teilnahme an einem Register Die Studien der GMALL-Studiengruppe haben eine erhebliche Verbesserung der Heilungschancen bei Burkitt-Lymphomen/-Leukämien ermöglicht. Dies gelang durch die konsequente Entwicklung neuer Studienkonzepte auf der Basis der Ergebnisse vorheriger Studien und unter Berücksichtigung neuer wissenschaftlicher Erkenntnisse. \n Aktuell steht keine Studie für die Behandlung der Patienten mit Burkitt-Lymphomen/-Leukämien zur Verfügung. Die Patienten können an das GMALL-Register gemeldet werden, wenn sie ihr Einverständnis dazu geben. Dann kann die Behandlung entsprechend dokumentiert, qualitätskontrolliert und ausgewertet werden. Dies trägt zur Verbesserung künftiger Therapieansätze bei."
+        ],
+        "context_ids": [
+            "abf0b6cf-c403-424e-a41c-be271e6890a1"
+        ],
+        "answer": "Das GMALL-Register ist eine Sammlung von Informationen über Patienten mit Burkitt-Lymphomen und -Leukämien. Es hilft dabei, die Behandlung zu dokumentieren und zu überprüfen. So können Forscher mehr über die Krankheit lernen und bessere Therapien entwickeln. Indem Sie sich im Register melden, tragen Sie dazu bei, dass zukünftige Behandlungen verbessert werden.",
+        "keep": "y"
+    },
+    {
+        "question": "Ist es sicher, dass mein Enkelkind gegen Masern geimpft wird, wenn ich geschwächt bin?",
+        "context": [
+            "Wird ein Angehöriger, z.B. ein Enkelkind, gegen Masern geimpft, müssen immungeschwächte Personen keinen zusätzlichen Abstand halten.\nTotimpfstoffe enthalten abgetötete Keime, entweder als Ganzes oder Teile davon. Totimpfstoffe können keine Krankheit auslösen. \n Lebendimpfstoffe bestehen aus sehr geringen Mengen lebender Keime. Sie sind so stark abgeschwächt, dass sie sich zwar noch vermehren, aber die Krankheit bei Immungesunden nicht auslösen können. Sie können allerdings mit ähnlichen Beschwerden einhergehen. Bei immungeschwächten Personen sollen keine Lebendimpfungen durchgeführt werden."
+        ],
+        "context_ids": [
+            "a3036452-938f-4a87-aa31-017d00ecd24a"
+        ],
+        "answer": "Ja, es ist sicher. Wenn dein Enkelkind gegen Masern geimpft wird, musst du als immungeschwächte Person keinen zusätzlichen Abstand halten. Die Impfung wird nicht die Krankheit bei dir auslösen.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie oft kann ich rotes Fleisch essen, ohne mein Krebsrisiko zu erhöhen?",
+        "context": [
+            "Fleisch Bei rotem Fleisch handelt es sich u.a. um Rindfleisch und Schweinefleisch, nicht jedoch um Geflügel und Fisch. Die US-amerikanische Gesundheitsbehörde National Institutes of Health (NIH) hat in der sog. „Diet and Health“Studie mit mehr als 500.000 Teilnehmern im Alter von 50-71 Jahren gezeigt, dass diejenigen Personen, die über viele Jahre oft rotes Fleisch aßen, eine insgesamt um ca. 30% erhöhte Sterblichkeit hatten. Das Risiko, an einer Krebserkrankung zu versterben, war um etwa 20% erhöht. \n In einer großen europäischen Studie (EPIC) wurden mehr als 500.000 Personen im Alter von 35 bis 70 Jahren untersucht. Die Nachbeobachtungszeit lag in dieser Studie bei 9 Jahren. Die Studie ergab, dass Personen, die viel rotes Fleisch aßen, ein erhöhtes Risiko für Darmkrebs hatten. \n In einer dritten Studie, der Nurses Health II Studie, wurden mehr als 88.000 jüngere Krankenschwestern untersucht. Sie wurden zwanzig Jahre nachbeobachtet. Es zeigte sich ein erhöhtes Risiko für Brustkrebs bei denjenigen, die viel rotes Fleisch gegessen hatten. \n Größere Mengen rotes Fleisch erhöhen also das Krebsrisiko. Rotes Fleisch sollte deshalb nur in Maßen verzehrt werden. Für Geflügel und Fisch gibt es dagegen keine Hinweise, dass Krebs gefördert wird; Fischverzehr hat sogar möglicherweise einen günstigen Einfluss auf das Krebsrisiko. \n 3"
+        ],
+        "context_ids": [
+            "51a66f25-c752-4443-898c-4526457ccefb"
+        ],
+        "answer": "Es ist am besten, rotes Fleisch nur in Maßen zu essen. Zu viel rotes Fleisch kann das Risiko für verschiedene Krebserkrankungen erhöhen. Daher sollten Sie versuchen, die Menge zu reduzieren und öfter Geflügel oder Fisch zu essen, da diese keine Hinweise auf ein erhöhtes Krebsrisiko zeigen.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie hat sich die Strahlentherapie im Laufe der Jahre verändert?",
+        "context": [
+            "Strahlentherapie Die Strahlentherapie hat sich in den letzten Jahrzehnten sehr verändert. In den 70er Jahren wurden alle Lymphknoten im Bereich des Halses, der Achsel, des Bauchraums und der Leiste bestrahlt (sog. Extended-Field-Strahlentherapie). Seit Mitte der 90er Jahre werden deutlich kleinere Felder, d.h. nur noch das betroffene Gebiet, bestrahlt (sog. Involved-FieldStrahlentherapie). Eine Weiterentwicklung stellt die sog. Involved-Node-Strahlentherapie dar, bei der nur noch ein kleines Feld um den initialen Herd herum bestrahlt wird. Auch die Dosierung wurde im Verlauf der Jahrzehnte deutlich reduziert. Während in den 70er Jahren noch mit 44 Gray bestrahlt wurde, liegt die Dosis heute bei 20-30 Gray."
+        ],
+        "context_ids": [
+            "114e1d07-209f-463f-9a2e-822e6325f948"
+        ],
+        "answer": "Die Strahlentherapie hat sich erheblich verbessert. Früher wurden große Bereiche bestrahlt, aber heute konzentriert man sich nur auf das betroffene Gebiet. Außerdem ist die Strahlendosis, die Patienten heute erhalten, viel niedriger. Statt 44 Gray in den 70er Jahren bekommen die meisten Patienten heute nur 20-30 Gray.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie beeinflusst ein niedriger Vitamin-D-Spiegel meine Behandlung gegen Lymphom?",
+        "context": [
+            "Vitamin D Man weiß, dass Lymphom-Patienten, die einen niedrigen Vitamin-D-Spiegel haben, weniger gut auf die Therapie ansprechen (ähnlich ist es mit dem Selen-Spiegel). Fraglich ist allerdings, ob die Therapie deswegen nicht gut läuft, weil der Vitamin-D-Spiegel niedrig ist, oder ob der niedrige Vitamin-D-Spiegel nur ein indirekter Marker dafür ist, dass es diesen Patienten schlecht geht. Die Frage nach einem ursächlichen Zusammenhang muss in Studien geklärt werden."
+        ],
+        "context_ids": [
+            "aeff4049-1256-4057-b9ab-7330c700092e"
+        ],
+        "answer": "Ein niedriger Vitamin-D-Spiegel könnte dazu führen, dass die Behandlung weniger gut wirkt. Es ist jedoch unklar, ob das Vitamin D direkt für die schlechte Antwort auf die Therapie verantwortlich ist oder ob es ein Zeichen dafür ist, dass es Ihnen insgesamt schlechter geht. Weitere Studien müssen das klären.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie läuft die Behandlung im frühen Stadium ab und hat sie viele Nebenwirkungen?",
+        "context": [
+            "Frühe Stadien Für Patienten in frühen Stadien ist die Standardtherapie 2xABVD, eine Kombination aus vier chemotherapeutischen Medikamenten. Daran schließt sich eine Strahlentherapie mit 20 Gray an. Die Therapie ist relativ nebenwirkungsarm und wird von den Patienten gut toleriert. Sie kann in der Regel ambulant durchgeführt werden."
+        ],
+        "context_ids": [
+            "c46acae7-939e-445c-b24e-f1cdec4bb2c7"
+        ],
+        "answer": "Im frühen Stadium besteht die Behandlung aus zwei Zyklen von ABVD, das sind vier verschiedene Chemotherapie-Medikamente. Danach bekommst du eine Strahlentherapie, die 20 Gray beträgt. Diese Therapie hat normalerweise nur wenige Nebenwirkungen, und die meisten Patienten vertragen sie gut. Du kannst die Behandlung meist auch ambulant durchführen, das heißt, du musst nicht über Nacht im Krankenhaus bleiben.",
+        "keep": "y"
+    },
+    {
+        "question": "Warum ist es wichtig, das Transkript zu testen, bevor ich meine Medikamente absetze?",
+        "context": [
+            "Wenn bei einem Patienten ein atypisches Transkript vorliegt und dies nicht bekannt ist, können gravierende Fehler auftreten. Wenn in der Verlaufsbeobachtung, z.B. nach dem Absetzen der Medikation, ein falscher Marker getestet wird, kann die CML unbemerkt zurückkehren. Wenn das Transkript initial nicht bestimmt wurde, sollte nicht abgesetzt werden. Vor einem Absetzversuch ist also auf jeden Fall eine Bestimmung des Transkriptes erforderlich. Bei Vorliegen eines atypischen Transkriptes sollte sichergestellt sein, dass das Labor für die Quantifizierung des atypischen Transkriptes geeignet ist."
+        ],
+        "context_ids": [
+            "7d324509-b01b-4be9-8b44-534193ac572d"
+        ],
+        "answer": "Es ist wichtig, das Transkript zu testen, weil wir sicherstellen müssen, dass alles in Ordnung ist, bevor wir mit der Medikation aufhören. Wenn wir das Transkript nicht kennen und einfach die Medikamente absetzen, könnte die Krankheit unbemerkt zurückkommen. Deswegen sollte immer zuerst das Transkript bestimmt werden.",
+        "keep": "y"
+    },
+    {
+        "question": "Warum ist es wichtig, dass verschiedene Spezialisten bei der Behandlung der Amyloidose zusammenarbeiten?",
+        "context": [
+            "Supportive (unterstützende) Therapie Die Behandlung der eingeschränkten Organfunktion hat einen sehr großen Stellenwert bei der Amyloidose-Behandlung. Daher ist eine enge Zusammenarbeit der Hämatologen mit Herz- und Nierenspezialisten, Neurologen und ggf. weiteren Fachärzten erforderlich."
+        ],
+        "context_ids": [
+            "29b99151-965e-4daa-985b-10d4e9c2597f"
+        ],
+        "answer": "Es ist wichtig, dass verschiedene Spezialisten zusammenarbeiten, weil Amyloidose die Funktion mehrerer Organe beeinträchtigen kann. Hämatologen kümmern sich um das Blut, während Herz-, Nieren- und Neurologen sicherstellen, dass alle betroffenen Organe bestmöglich behandelt werden. Diese Zusammenarbeit hilft, die Gesundheit des Patienten zu verbessern und die bestmögliche Therapie zu gewährleisten.",
+        "keep": "n"
+    },
+    {
+        "question": "Was bedeutet es, wenn mein Arzt mir von Chemoimmuntherapie sagt?",
+        "context": [
+            "CHOP). Eine Kombination aus Chemotherapie und Antikörper nennt man Chemoimmuntherapie. Durch Ersatz des im CHOP-Protokoll enthaltenen Wirkstoffs Vincristin durch den Wirkstoff Polatuzumab-Vedotin kann das Behandlungsergebnis in fortgeschrittenem Stadium einer molekulargenetisch definierten Untergruppe Diffuser Großzelliger B-Zell-Lymphome, den sogenannten ABC-Lymphomen, verbessert werden (PolaR-CHP-Protokoll). \n T-Zell-Lymphome werden ebenfalls mit CHOP behandelt. Der Antikörper Rituximab ist bei TZell-Lymphomen aber leider nicht wirksam, da das Oberflächenmerkmal CD20, an das der Antikörper bindet, auf T-Lymphozyten nicht vorkommt. Bei Anaplastischen Großzelligen Lymphomen verbessert das gegen CD30 gerichtete Antikörper-Präparat Brentuximab-Vedotin die Therapieergebnisse. Brentuximab-Vedotin ist sowohl für die Primär- als auch für die Rückfalltherapie zugelassen. [Zum Antikörper Rituximab siehe auch DLH- INFO-Blatt „Rituximab“, zu T-Zell-Lymphomen siehe auch DLH-INFO-Blatt „Periphere T-Zell- Lymphome“.]"
+        ],
+        "context_ids": [
+            "1a1c5b30-43ee-49fb-bcf4-302dbe6a0de0"
+        ],
+        "answer": "Chemoimmuntherapie ist eine Behandlung, die Chemotherapie und Antikörper kombiniert. Diese Methode wird oft verwendet, um bestimmte Arten von Lymphomen, wie zum Beispiel diffuse großzellige B-Zell-Lymphome, zu behandeln. Es hilft, die Wirkung der Behandlung zu verbessern.",
+        "keep": "y"
+    },
+    {
+        "question": "Warum sollte ich mich gegen Pneumokokken impfen lassen, besonders wenn ich Lymphom-Patient bin?",
+        "context": [
+            "Impfungen Empfehlenswert ist es, sich gegen Pneumokokken impfen zu lassen. Diese Bakterien können eine Lungenentzündung auslösen. Die Empfehlung gilt in besonderer Weise für Lymphom-Patienten mit einer Anti-CD20-Antikörper-Therapie. Nach fünf Jahren erfolgt eine Auffrischimpfung. Außerdem sollte man einmal jährlich zur Grippeschutzimpfung gehen."
+        ],
+        "context_ids": [
+            "9d706f8c-6086-4b6d-b10e-be8c9711227a"
+        ],
+        "answer": "Die Impfung gegen Pneumokokken ist wichtig, weil diese Bakterien eine Lungenentzündung verursachen können. Für Lymphom-Patienten, die eine spezielle Therapie erhalten, ist der Schutz besonders wichtig, da ihr Immunsystem geschwächt ist. Es hilft, ernsthafte Probleme zu vermeiden.",
+        "keep": "y"
+    },
+    {
+        "question": "Was passiert, wenn die Behandlung mit meinem Medikament nicht wirkt?",
+        "context": [
+            "Wechsel bei unzureichendem Ansprechen Bei unzureichendem Ansprechen ist es wichtig, dass untersucht wird, warum der Patient schlecht angesprochen hat. Mutationen im BCR::ABL1-Fusionsgen können dazu führen, dass der TKI nicht mehr wirkt. Inzwischen sind bis zu hundert verschiedene Mutationen bekannt. Abhängig von der vorliegenden Mutation und ggf. Begleiterkrankungen wird auf Bosutinib, Dasatinib, Nilotinib oder Ponatinib umgestellt. Ist ein weiterer Wechsel notwendig steht dann auch Asciminib zur Verfügung. Außerdem muss eine Chromosomen-Untersuchung aus dem Knochenmark durchgeführt werden, denn zusätzlich zum PhiladelphiaChromosom könnten weitere ChromosomenVeränderungen aufgetreten sein. Wenn dies der Fall ist, ist dies als Warnsignal zu werten. Die Therapie muss dann umgestellt werden. Wenn ein Patient körperlich fit ist, würde man ggf. eine allogene Stammzelltransplantation in Erwägung ziehen."
+        ],
+        "context_ids": [
+            "a4642e6f-c0dd-48ea-95ed-ee391bdeabc1"
+        ],
+        "answer": "Wenn die Behandlung mit Ihrem Medikament nicht wirkt, ist es wichtig herauszufinden, warum das so ist. Es gibt viele mögliche Gründe, und manchmal kann es an Veränderungen in den Zellen liegen. In solchen Fällen kann der Arzt auf ein anderes Medikament umstellen. Möglicherweise sind auch weitere Untersuchungen nötig, um den besten Weg für Ihre Therapie zu finden.",
+        "keep": "n"
+    },
+    {
+        "question": "Warum sollte ich Obst und Gemüse essen, wenn es mein Krebsrisiko nicht beeinflusst?",
+        "context": [
+            "Ein Risiko beim Fasten und auch bei der kohlenhydratarmen Kost ist, dass man dann möglicherweise zu sehr an Gewicht verliert. Viele Krebspatienten leiden ohnehin schon unter Appetitmangel und Gewichtsverlust.\nGemüse und Obst Zum Einfluss von Obst und Gemüse auf die Sterblichkeit gibt es eine ganze Reihe von Untersuchungen. In einer Metaanalyse aus 16 Studien wurden die Daten von insgesamt mehr als 800.000 Teilnehmern berücksichtigt. Die Nachbeobachtungszeit lag in den Untersuchungen zwischen 4 und 26 Jahren. Im Ergebnis hat sich gezeigt, dass der Verzehr von viel Obst und Gemüse mit einer geringeren Sterblichkeit verbunden war. Das Risiko, an Krebs zu sterben, wurde allerdings durch den Verzehr von Obst und Gemüse nicht beeinflusst. \n Obst und Gemüse zählen also offenbar nach den vorliegenden Daten nicht zu den sofort offensichtlichen Schutzfaktoren für Krebserkrankungen. Trotzdem wird empfohlen, bis zu fünf Portionen Obst und Gemüse pro Tag zu essen, weil zumindest die Krebssterblichkeit 4 \n nicht erhöht und die Gesamtsterblichkeit sogar vermindert wird. Die Blutgefäße und das Herz werden geschützt. Außerdem haben die Ballaststoffe in Obst und Gemüse einen günstigen Einfluss auf die Darmfunktion und auf die in unserem Darm lebenden „gesunden“ Bakterien, unser Darm-Mikrobiom."
+        ],
+        "context_ids": [
+            "9dbc46f9-2031-4fa4-a042-6200129400ce"
+        ],
+        "answer": "Das Essen von Obst und Gemüse ist wichtig, weil es nicht nur dazu beiträgt, die Gesamtsterblichkeit zu senken, sondern auch unser Herz und unsere Blutgefäße schützt. Außerdem enthalten sie Ballaststoffe, die gut für unsere Darmfunktion sind und die gesunden Bakterien im Darm unterstützen. Es ist also gut für deine Gesundheit, auch wenn es nicht direkt das Risiko für Krebs verringert.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie kann ich mich am besten auf ein Gespräch mit meinem Arzt vorbereiten?",
+        "context": [
+            "nicht jedes Mal die gesamte Krankengeschichte dargestellt werden. Aber man sollte diese Informationen parat haben. Die Auflistung ist nicht nur von Bedeutung, damit der Arzt genaue Informationen bekommt, sondern auch, um keine Zeit durch langes Nachdenken zu verlieren. Diese Zeit kann dann für andere Dinge, z.B. Fragen des Patienten, genutzt werden. \n Außerdem sollten für das Gespräch Ziele gesetzt werden. Manche Ziele sind ganz klar. Wenn man z.B. eine Untersuchung hatte, will man danach die Ergebnisse erfahren. Andere Ziele sind eventuell weniger klar. Dann ist es gut, sich vorher zu überlegen, was das Ziel für das Gespräch mit dem Arzt ist. Will man z.B. etwas über eine neue Behandlung erfahren oder will man eigentlich nur etwas über die Nebenwirkungen wissen. Wenn z.B. der Arzt fünf Minuten lang etwas erzählt, was man entweder schon weiß oder aber gar nicht wissen will, wird damit wertvolle Zeit vergeudet, die man für andere Inhalte dringender gebraucht hätte. \n Wenn man mehrere Ziele für das Gespräch hat, sollte man sie nach ihrer Wichtigkeit sortieren."
+        ],
+        "context_ids": [
+            "bd18d2f1-64e4-4f4b-9254-971a7035cb2f"
+        ],
+        "answer": "Um gut auf das Gespräch mit Ihrem Arzt vorbereitet zu sein, sollten Sie Ihre Krankengeschichte und wichtige Informationen griffbereit haben. Überlegen Sie sich auch im Voraus, was Sie mit dem Arzt besprechen möchten. Machen Sie eine Liste von Zielen für das Gespräch, wie zum Beispiel Fragen zu einer neuen Behandlung oder spezielle Informationen über Nebenwirkungen. Sortieren Sie diese Ziele nach ihrer Wichtigkeit, damit Sie die wichtigsten Themen zuerst ansprechen können.",
+        "keep": "y"
+    },
+    {
+        "question": "Was ist der Unterschied zwischen einer allogenen und einer autologen Stammzelltransplantation?",
+        "context": [
+            "Erläuterungen zu Fachbegriffen und Abkürzungen\nAllogene Stammzelltransplantation: Stammzelltransplantation von einem verwandten oder unverwandten Spender Autologe Stammzelltransplantation: Rückübertragung eigener blutbildender Stammzellen nach Hochdosistherapie Biopsie: Chirurgischer Eingriff zur Entnahme und Untersuchung einer kleinen Menge von Gewebe zu Untersuchungszwecken. Unter einer „offenen“ Biopsie versteht man eine Gewebeentnahme, die unter Sicht durch einen operativen Eingriff mit Einschnitt der Hautoberfläche erfolgt."
+        ],
+        "context_ids": [
+            "90ad1a8f-9854-4277-9add-852493f88617"
+        ],
+        "answer": "Der Unterschied liegt darin, woher die Stammzellen kommen. Bei einer allogenen Stammzelltransplantation stammen die Stammzellen von einem Spender, der entweder verwandt oder nicht verwandt ist. Bei einer autologen Stammzelltransplantation hingegen verwendet man die eigenen Stammzellen des Patienten, die nach einer speziellen Behandlung zurückgegeben werden.",
+        "keep": "y"
+    },
+    {
+        "question": "Was bedeutet es, wenn bei mir das Philadelphia-Chromosom festgestellt wurde?",
+        "context": [
+            "Bei der Untersuchung der Chromosomen (Zytogenetik) fällt ein Austausch von Erbgut zwischen Chromosom 9 und Chromosom 22 auf. Ein Stück des Chromosoms 22 fehlt. Dieses Stück hat sich stattdessen an Chromosom 9 angeheftet. Im Austausch dafür wird ein Stück des Chromosoms 9 auf das Chromosom 22 übertragen. Das dadurch verkürzte Chromosom 22 wird „Philadelphia-Chromosom“ genannt [siehe Abb. 1]. Die Bezeichnung leitet sich von der amerikanischen Stadt Philadelphia ab. Dort haben zwei Forscher dieses Chromosom in den 1960er Jahren entdeckt. \n Abb. 1: Entstehung des Philadelphia-Chromosoms (Abbildung modifiziert nach Junia Melo)"
+        ],
+        "context_ids": [
+            "2bb7bc4b-48c2-4cc3-a5f2-4a899d191f8b"
+        ],
+        "answer": "Das Philadelphia-Chromosom ist ein verändertes Chromosom, das entsteht, wenn Teile von Chromosom 9 und Chromosom 22 tauschen. Diese Veränderung kann mit bestimmten Erkrankungen, wie z.B. Leukämie, verbunden sein. Es ist wichtig, mit Ihrem Arzt zu sprechen, um zu verstehen, was dies für Ihre Gesundheit bedeutet und welche Schritte als nächstes sinnvoll sind.",
+        "keep": "y"
+    },
+    {
+        "question": "Was ist eine molekulare Remission und warum ist sie so wichtig für die Behandlung meiner CML?",
+        "context": [
+            "Etappenziele bei CML Zunächst wird eine hämatologische Remission angestrebt. Das bedeutet, dass sich das Blutbild normalisiert. Dieses Ziel wird unter einer TKI-Therapie meistens nach etwa zwei bis drei Wochen erreicht. Die weißen Blutkörperchen und auch die Blutplättchen liegen, sofern sie zu hoch waren, wieder im Normbereich. Wenn der rote Blutfarbstoff erniedrigt ist, dauert es manchmal ein bisschen länger, bis er wieder im Normbereich liegt. \n Zytogenetische Remission bedeutet, dass bei der Chromosomen-Untersuchung kein Philadelphia-Chromosom mehr nachweisbar ist. Es werden allerdings nur 20 Zellen untersucht. Bei einem schnellen Ansprechen ist die Chromosomen-Untersuchung in der Regel entbehrlich, da sich keine zusätzlichen Aussagen daraus ableiten lassen. \n Um das Ausmaß der molekularen Remission (MR) zu bestimmen, wird mittels quantitativer PCR-Untersuchung nach der internationalen Skala der BCR::ABL1-Wert gemessen (in Bezug zu einem Kontrollgen). Wichtig für das Überleben ist, dass man eine gute molekulare Remission (MMR) erreicht. Dies entspricht einem BCR::ABL1-Wert von <0,1 %. Dieses Etappenziel wird als „sicherer Hafen“ bezeichnet, weil in Studien festgestellt wurde, dass Patienten, die nach zwei Jahren Behandlungszeit eine gute molekulare Remission erreicht haben, nur noch ein sehr geringes Risiko für ein Fortschreiten der Erkrankung haben."
+        ],
+        "context_ids": [
+            "a937ee5f-e67f-4155-8ce3-3f46e79e05be"
+        ],
+        "answer": "Eine molekulare Remission bedeutet, dass in deinem Blut ein sehr niedriger BCR::ABL1-Wert festgestellt wird, was zeigt, dass die Krankheit gut unter Kontrolle ist. Dieses Ziel ist wichtig, weil Studien gezeigt haben, dass Patienten, die frühzeitig eine gute molekulare Remission erreichen, ein viel geringeres Risiko haben, dass sich ihre Erkrankung verschlechtert.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie beeinflusst Übergewicht mein Krebsrisiko?",
+        "context": [
+            "Übergewicht Wenn man mehr isst, als der Körper verbraucht, nimmt man an Gewicht zu. Bereits seit Anfang dieses Jahrtausends ist bekannt, dass das Krebsrisiko vom Ausmaß des Übergewichts beeinflusst wird. Für deutlich übergewichtige Frauen liegt z.B. das Risiko für ein Multiples Myelom 44% höher als bei normalgewichtigen Frauen, das Risiko für Lymphome liegt 95% höher. Im Mittel über alle Krebsarten Ernährung und Krebs (2023) 2 \n liegt die Risikoerhöhung für Frauen mit deutlichem Übergewicht bei etwa 90%. Bei deutlich übergewichtigen Männern ist das Risiko für ein Multiples Myelom um etwa 70% erhöht, dasjenige für Lymphome um etwa 50%. Im Mittel über alle Krebsarten liegt die Risikoerhöhung bei deutlich übergewichtigen Männern bei etwa 50%. Als Fazit kann man festhalten, dass Personen, die deutlich zu viel wiegen, ein erhöhtes Risiko für Krebserkrankungen haben."
+        ],
+        "context_ids": [
+            "4b1e0a65-192e-48a0-924d-34b00a90ea7e"
+        ],
+        "answer": "Wenn Sie deutlich übergewichtig sind, haben Sie ein höheres Risiko, an bestimmten Krebsarten zu erkranken. Bei Frauen ist das Risiko, an einem Multiplen Myelom zu erkranken, um 44% höher als bei normalgewichtigen Frauen. Auch das Risiko für Lymphome ist um 95% erhöht. Bei Männern ist das Risiko für ein Multiples Myelom um 70% und für Lymphome um 50% höher. Insgesamt haben deutlich übergewichtige Menschen ein höheres Risiko, an Krebs zu erkranken.",
+        "keep": "y"
+    },
+    {
+        "question": "Was passiert bei der Untersuchung, wenn der Arzt nach meinen Beschwerden fragt?",
+        "context": [
+            "Diagnostik Der Arzt befragt den Patienten zunächst nach seinen Beschwerden und insbesondere den sog. B-Symptomen (s.o.). Es folgt die körperliche Untersuchung, die bei Lymphomen von großer Bedeutung ist, da die vergrößerten Lymphknoten oft gut zugänglich sind. \n Des Weiteren werden bildgebende Untersuchungen durchgeführt. Mittels einer Computertomografie (CT) oder Positronen-Emissionsto2"
+        ],
+        "context_ids": [
+            "b4aa7023-5bbd-46f5-b160-e38e539a0fe0"
+        ],
+        "answer": "Der Arzt wird Ihnen viele Fragen zu Ihren Beschwerden stellen, um herauszufinden, was Ihnen fehlt. Besonders wird er nach speziellen Symptomen fragen, die wichtig sind. Danach wird er Sie körperlich untersuchen, um festzustellen, ob es bei Ihnen vergrößerte Lymphknoten gibt, die man oft gut fühlen oder sehen kann. Zusätzlich werden Bilduntersuchungen wie ein CT-Scan gemacht, um mehr Informationen zu gewinnen.",
+        "keep": "n"
+    },
+    {
+        "question": "Warum ist eine keimarme Ernährung für mich gefährlich?",
+        "context": [
+            "Über viele Jahre hat man geglaubt, dass Patienten vor Lebensmittelinfektionen durch die sogenannte „keimarme“ Ernährung geschützt werden können. Dabei wird den Patienten eine stark reduzierte Liste von möglichen Speisen und Essenszutaten an die Hand gegeben. Dies klingt auf den ersten Blick vernünftig. Patienten halten sich daher oft sehr streng über viele Wochen und Monate an diese Kost. Die Forschung hat jedoch gezeigt, dass diese keimarme Ernährung für die Patienten eher gefährlich ist. Sie schmeckt nicht, macht keinen Appetit und enthält häufig wenige Nährstoffe, wie z.B. Vitamine und sekundäre Pflanzenstoffe, die für die Patienten gerade in der Zeit der intensiven Therapie wichtig sind. Die Folge ist bei vielen Patienten eine Mangelernährung. Mangelernährung führt jedoch dazu, dass Therapien schlechter vertragen werden und die Patienten häufiger Nebenwirkungen und Komplikationen haben. Neue Forschungsergebnisse haben außerdem gezeigt, dass Patienten, die eine streng keimarme Kost erhalten, sogar häufiger an Infektionen erkranken. Offensichtlich schadet die Mangelernährung dem Immunsystem."
+        ],
+        "context_ids": [
+            "2048f335-1527-4afc-aacf-25b8f3ecf566"
+        ],
+        "answer": "Eine keimarme Ernährung kann gefährlich sein, weil sie oft wenig Nährstoffe enthält, die wichtig für Ihre Gesundheit sind, besonders während einer Therapie. Wenn Sie nicht genug Vitamine und andere wichtige Stoffe bekommen, kann das zu Mangelernährung führen. Das schwächt Ihr Immunsystem, wodurch Sie anfälliger für Infektionen werden und Therapien schlechter vertragen können.",
+        "keep": "y"
+    },
+    {
+        "question": "Was bedeutet es, wenn mein Arzt sagt, dass ich ein Follikuläres Lymphom Grad 3b habe?",
+        "context": [
+            "Beim Follikulären Lymphom werden verschiedene Grade der Bösartigkeit unterschieden: Grade 1, 2, 3a und 3b. Ein Follikuläres Lymphom Grad 3b wird bereits zu den aggressiven Lymphomen gezählt und entsprechend behandelt. Die Unterscheidung zwischen Grad 3a und Grad 3b ist also besonders wichtig, weil sich Konsequenzen für die Therapie ergeben. Konsequenterweise werden nach der WHO-Klassifikation 2022 Follikuläre Lymphome Grad 3b inzwischen „Follikuläre Großzellige B-Zell-Lymphome“ genannt. 3"
+        ],
+        "context_ids": [
+            "a0684270-10cf-4aec-8ad6-35dda28401e2"
+        ],
+        "answer": "Ein Follikuläres Lymphom Grad 3b ist eine aggressive Form von Lymphom, das eine spezielle Art von Blutkrebs darstellt. Es ist wichtig, diese Schweregrade zu kennen, da sie Einfluss darauf haben, wie wir behandelt werden. Grad 3b wird auch als Follikuläres Großzelliges B-Zell-Lymphom bezeichnet und erfordert in der Regel eine intensivere Behandlung.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind HemiBodies und wie helfen sie bei der Krebsbehandlung?",
+        "context": [
+            "HemiBodies Die genannten bispezifischen Antikörper greifen an einer Oberflächenstruktur der Krebszelle an. Diese Strukturen finden sich häufig auch auf anderen Körperzellen, sodass die Antikörper selten spezifisch sind, es zu einer unspezifischen Aktvierung des T-Zell-Systems kommt und Nebenwirkungen auftreten. Um eine höhere Spezifität der Antikörper zu erzielen sowie die unspezifische Aktivierung des T-Zell-Systems und die Nebenwirkungen zu verringern, wurden seitens des Universitätsklinikums Würzburg HemiBodies entwickelt. Diese Antikörper enthalten eine Einheit zur Bindung an eine Oberflächenstruktur der Krebszelle so-wie eine halbe Einheit für die Bindung an die Oberflächenstruktur der TZelle. Werden zwei HemiBodies genutzt, die an verschiedene Oberflächenstrukturen des gleichen Tumorzelltyps binden und zusammen die Einheit für die Bindung an die Oberflächenstruktur der T-Zelle bilden, können die HemiBodies die T-Zelle für die Abtötung der Krebszelle aktivieren. Dieser Vorgang ist deutlich spezifischer als die Zellabtötung durch übliche bispezifische Antikörper. Einen Überblick über die Wirkungsweise von HemiBodies gibt Abbildung 2. \n HemiBodies sind ein neuer und aktueller Forschungsansatz des Universitätsklinikums Würzburg. Momentan werden Studien zur Wirkung der HemiBodies beim Multiplen Myelom und bei Tumoren des Magen-DarmTrakts initiiert."
+        ],
+        "context_ids": [
+            "c6872601-e61a-4f88-8cc4-a0af2ea5a238"
+        ],
+        "answer": "HemiBodies sind spezielle Antikörper, die dazu entwickelt wurden, Krebszellen gezielt zu bekämpfen. Sie binden an bestimmte Strukturen auf der Krebszelle und aktivieren dabei das Immunsystem, insbesondere die T-Zellen, welche die Krebszellen abtöten können. Durch ihre spezielle Struktur sind sie effektiver als herkömmliche Antikörper und sollen weniger Nebenwirkungen verursachen. Zurzeit werden sie in Studien getestet, um ihre Wirkung bei bestimmten Krebsarten wie dem Multiplen Myelom und bei Magen-Darm-Tumoren zu überprüfen.",
+        "keep": "y"
+    },
+    {
+        "question": "Was bedeutet es, dass die Überlebenszeit bei älteren Patienten mit AML schlecht ist?",
+        "context": [
+            "Neues in der Diagnostik und Therapie der AML \n Beitrag von PD Dr. Maximilian Christopeit, Universitätsklinikum Hamburg-Eppendorf, in der DLH info 76/ 2022. Aktualisiert 3/2023. \n [Erläuterungen zu Fachbegriffen und Abkürzungen siehe Textende]\nDie Akute Myeloische Leukämie (AML) ist eine Erkrankung mit vielen verschiedenen Unterformen, die sich tumorbiologisch zum Teil recht unterschiedlich präsentieren. Dies ist unter anderem auf bestimmte molekulargenetische Merkmale der Leukämiezellen zurückzuführen. \n Die AML betrifft vor allem ältere Menschen. Daten eines schwedischen Registers, die in einer inzwischen zehn Jahre alten Veröffentlichung publiziert wurden, sind nach wie vor eine herausragende Grundlage unseres Wissens und unserer Annahmen (Juliusson, Blood 2012). In dieser Veröffentlichung liegt das mittlere Alter der AML-Patienten bei 72 Jahren, das der Patienten mit Akuter Lymphatischer Leukämie (ALL) bei 54 Jahren. \n Die zu erwartende Überlebenszeit nach der Diagnose AML hängt sehr stark von der allgemeinen Fitness des Patienten ab und wird in dem erwähnten Bericht nach dem Alter gestaffelt angegeben. Die Prognose der älteren Patienten ist relativ schlecht, insbesondere wenn keine intensive Therapie durchgeführt werden kann. Dies ist ein relevanter Aspekt, denn ab einem Alter von über 54 Jahren sind weniger als die Hälfte der Patienten (bezogen auf die Jahre 19972006) mit intensiver Therapie behandelt worden. Der Bedarf an neuen Therapieansätzen bei der AML war und ist also groß, vor allem wenn eine intensive Behandlung und eine allogene Stammzelltransplantation nicht infrage kommen."
+        ],
+        "context_ids": [
+            "a1cdce71-256a-4b5b-a4b3-b1f4dbe2e789"
+        ],
+        "answer": "Die Überlebenszeit bei älteren Patienten mit akuter myeloischer Leukämie (AML) ist schlechter, weil ihr Körper nicht so gut mit der Krankheit oder der Behandlung umgehen kann. Insbesondere Senioren sind oft nicht fit genug für intensive Therapien, die die Heilungschancen verbessern könnten. Das bedeutet, dass viele ältere Patienten möglicherweise weniger wirksame Behandlungen erhalten, was ihre Aussicht auf ein längeres Leben beeinträchtigt.",
+        "keep": "n"
+    },
+    {
+        "question": "Was bedeutet es, wenn bei mir eine Mutation im Gen gefunden wurde?",
+        "context": [
+            "9\nFISH: Fluoreszenz-in-situ-Hybridisierung; Methode zur Untersuchung von Chromosomen, bei der bestimmte Anteile eines Chromosoms oder auch ganze Chromosomen mit Fluoreszenzfarben angefärbt werden. \n Hämatologisch: das Blut betreffend \n Inhibitor: Hemmstoff \n Mutation: Genveränderung. Mutationen, die nur im krebsartig veränderten Gewebe vorkommen, sind nicht erblich. Lediglich Mutationen, die (auch) in den Ei- und Samenzellen vorkommen, sind erblich. \n Myeloproliferation: Überproduktion von Blutkörperchen im Knochenmark \n Osteoporose: Knochenschwund \n Philadelphia-Chromosom: verkürztes Chromosom 22 aufgrund einer Translokation zwischen den Chromosomen 9 und 22 \n Pleuraerguss: krankhafte Flüssigkeitsansammlung im Spalt zwischen Lunge und Brustwand, die zu Atemstörungen führen kann. \n Randomisierung: Zufallszuteilung zu verschiedenen Armen einer Therapiestudie \n Remission: Ansprechen auf die Therapie \n Resistenz: Unempfindlichkeit \n TFR: Therapiefreie Remission; bei der CML: Der TKI kann abgesetzt werden, ohne dass die Erkrankung zurückkehrt \n TKI: Tyrosinkinaseinhibitor \n Transkript: „Bauanleitung“ für die Synthese bestimmter Proteine (Eiweiße) \n Translokation: Umlagerung von Chromosomenabschnitten \n Zytogenetik: mikroskopische Untersuchung von Zahl und Aufbau der Chromosomen"
+        ],
+        "context_ids": [
+            "0e66d407-3bc3-4f71-87bd-858de7d14829"
+        ],
+        "answer": "Eine Mutation im Gen bedeutet, dass es eine Veränderung in Ihrer DNA gibt. Manche Mutationen sind nur in krankhaft verändertem Gewebe wie Tumoren zu finden und sind nicht vererbbar. Das heißt, sie können nicht an Ihre Kinder weitergegeben werden. Es ist wichtig, mit Ihrem Arzt darüber zu sprechen, was das für Ihre Gesundheit bedeutet.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind Checkpoint-Hemmstoffe und für wen sind sie geeignet?",
+        "context": [
+            "Hodgkin Lymphom und Primärem Mediastinalen B-Zell-Lymphom werden Checkpoint- Hemmstoffe insbesondere bei Rückfall oder fehlendem Ansprechen auf die vorherige Therapie eingesetzt. Dabei bestimmt die Ansprechtiefe die langfristige Krankheitskontrolle. Eine Übersicht über die Checkpoint-Inhibitoren sowie die behandelten Krebserkrankungen gibt Tabelle 2. Unter der Therapie mit Checkpoint-Inhibitoren sind schwerwiegende unerwünschte Ereignisse und auch Todesfälle nicht auszuschließen. Die Nebenwirkungen werden vor allem durch die arzneimittelbedingte Aktivierung des Immunsystems hervorgerufen. D.h. es kann zu Autoimmunreaktionen kommen, von denen verschiedene Organe betroffen sind. Entsprechend sind die Patienten sorgfältig und \n 3"
+        ],
+        "context_ids": [
+            "a4f5c8b7-a3f0-482a-b03e-61fc9988f63c"
+        ],
+        "answer": "Checkpoint-Hemmstoffe sind Medikamente, die bei bestimmten Krebserkrankungen eingesetzt werden, insbesondere wenn andere Behandlungen nicht wirken oder die Krankheit zurückgekehrt ist. Sie helfen dem Immunsystem, die Krebszellen besser zu erkennen und zu bekämpfen, werden jedoch hauptsächlich bei Hodgkin Lymphom und primärem Mediastinalen B-Zell-Lymphom eingesetzt.",
+        "keep": "y"
+    },
+    {
+        "question": "Was bedeutet es, wenn ich erhöhte weiße Blutkörperchen habe?",
+        "context": [
+            "Grundlagen Leukämie bedeutet „weißes Blut“. Die Anzahl der weißen Blutkörperchen beträgt normalerweise 4.000 bis 10.000 pro Mikroliter. Dieser Wert ist bei CML-Patienten deutlich erhöht. Im Blut eines CML-Patienten sieht man außerdem Zellen, die sich normalerweise nicht im peripheren Blut aufhalten. Es handelt sich hierbei um Vorstufen, die regulär nur im Knochenmark vorkommen. Diese werden bei der CML ausgeschwemmt, weil sich im Knochenmark sehr viele Zellen befinden und diese dort ihren Halt verlieren. Dieser Befund ist sehr charakteristisch für eine myeloproliferative Erkrankung, die durch vermehrtes Zellwachstum im Knochenmark gekennzeichnet ist. Wenn die CML spät diagnostiziert wird, kann es auch vorkommen, dass die Blutplättchen und der rote Blutfarbstoff erniedrigt sind, da die normale Blutbildung verdrängt wird. Allerdings können die Blutplättchen auch stark erhöht sein. Patienten gehen weniger aufgrund von Beschwerden zum Arzt, meistens handelt es sich um einen Zufallsbefund."
+        ],
+        "context_ids": [
+            "aa2c5e3b-68d9-427c-bf79-b1161f146b34"
+        ],
+        "answer": "Erhöhte weiße Blutkörperchen können auf eine Erkrankung wie CML hinweisen. Normalerweise haben wir zwischen 4.000 und 10.000 weiße Blutkörperchen pro Mikroliter Blut. Bei CML sind diese Werte deutlich höher, weil im Knochenmark viele Zellen abnorm wachsen und dann ins Blut gelangen. Es ist wichtig, dass Sie Ihren Arzt konsultieren, um herauszufinden, warum Ihre Werte erhöht sind.",
+        "keep": "y"
+    },
+    {
+        "question": "Was beinhaltet das CHOP-Protokoll zur Behandlung von aggressiven Lymphomen?",
+        "context": [
+            "Therapie Das Behandlungsziel bei den aggressiven Lymphomen ist die Heilung. Das CHOP-Protokoll ist die derzeitige Standardchemotherapie zur Behandlung der meisten aggressiven Lymphome. CHOP ist ein Akronym. Das heißt, die Abkürzung wird gebildet durch die Anfangsbuchstaben der eingesetzten Medikamente: C = Cyclophosphamid, H = Doxorubicin (früher: Hydroxydaunorubicin), O = Vincristin (früher: Oncovin®) und P = Prednison. Bei den drei erstgenannten Medikamenten handelt es sich um Chemotherapie im engeren Sinne. Prednison ist ein körpereigener Stoff, eine kortisonartige Substanz, welche ebenfalls die Eigenschaft hat, Lymphomzellen abzutöten. \n Bei den B-Zell-Lymphomen, also bei der über- wiegenden Mehrzahl der Lymphome, wird zusätzlich der Antikörper Rituximab verabreicht (R4"
+        ],
+        "context_ids": [
+            "ea6ef297-e1e3-48ef-bdab-4081b3069c45"
+        ],
+        "answer": "Das CHOP-Protokoll ist eine Standardbehandlung für aggressive Lymphome. Es besteht aus vier Hauptmedikamenten: Cyclophosphamid, Doxorubicin, Vincristin und Prednison. Die ersten drei sind Chemotherapie-Medikamente, während Prednison ein körpereigener Stoff ist, der auch hilft, Lymphomzellen abzutöten. Bei den meisten B-Zell-Lymphomen wird zusätzlich ein Antikörper namens Rituximab gegeben.",
+        "keep": "y"
+    },
+    {
+        "question": "Was ist ein Burkitt-Lymphom und wie unterscheidet es sich von anderen Lymphomen?",
+        "context": [
+            "Burkitt-Lymphome/-Leukämien und deren Behandlung gemäß GMALLEmpfehlungen \n Beitrag von Dr. med. Nicola Gökbuget, Universitätsklinikum Frankfurt, aus der DLH-INFO 42 II/2010, aktualisiert im Juni 2017.\nEinleitung Die Bezeichnung „Burkitt“ stammt von dem englischen Tropenarzt Denis Burkitt, der das nach ihm benannte Lymphom Mitte des letzten Jahrhunderts erstmals in Afrika beschrieben hat. In den Malariagebieten Zentral- und Ostafrikas ist das Burkitt-Lymphom die häufigste Krebserkrankung bei Kindern. Man spricht hier auch von der „endemischen“ Form, d.h. die Krankheit ist hier „heimisch“. Das in Europa und Nordamerika auftretende Burkitt-Lymphom wird im Gegensatz dazu als „sporadisch“ bezeichnet, d.h. es tritt in diesen Regionen nur ganz vereinzelt auf. Die Unterscheidung zwischen den Burkitt-Lymphomen und anderen aggressiven Lymphomen, insbesondere den sog. diffus großzelligen Lymphomen, ist nicht immer einfach. Deshalb wurden in der Vergangenheit auch Lymphome wie ‚Burkittähnliche‘ oder atypische Burkitt-Lymphome diagnostiziert und ähnlich wie Burkitt-Lymphome behandelt. \n Das Burkitt-Lymphom weist ähnliche biologische Merkmale wie die reifzellige B-ALL (ALL = Akute Lymphatische Leukämie), nicht zu verwechseln mit der B-Vorläufer-ALL, auf. Nach der WHO-Klassifikation 2008 wird dieser vergleichsweise seltene ALL-Subtyp (ca. 3-5% der ALL-Fälle) auch als Burkitt-Leukämie bezeichnet."
+        ],
+        "context_ids": [
+            "17336fac-3ffd-4375-81e9-def7ee02bbcd"
+        ],
+        "answer": "Ein Burkitt-Lymphom ist eine Art von Krebs, der in den Lymphknoten auftritt. Es wurde nach dem Arzt Denis Burkitt benannt, der es in Afrika zuerst beschrieben hat. In Afrika kommt es häufig bei Kindern vor, während es in Europa und Nordamerika sehr selten ist. Bei den Burkitt-Lymphomen gibt es auch andere Arten, die ähnlich aussehen, aber anders behandelt werden können. Die Unterscheidung zwischen diesen Lymphomen kann schwierig sein.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind die neuen Behandlungsmöglichkeiten für das Sézary-Syndrom?",
+        "context": [
+            "Neue Therapieoptionen für fortgeschrittene Stadien zielen auf Rezeptoren an der Oberfläche der T-Zellen bzw. der Tumorzellen, z.B. Brentuximab Vedotin (CD30) oder Mogamulizumab (CCR4). Diese Therapien werden über die Vene (intravenös) verabreicht. Mogamulizumab kommt insbesondere beim Sézary-Syndrom zum Einsatz. Eine weitere Therapiemöglichkeit besteht in der sogenannten extrakorporalen Photopherese (UV-Bestrahlung der Blutzellen nach vorheriger Gabe des Lichtsensibilisators Psoralen), die vor allem als Kombinationstherapie, z.B. mit Interferon-α, beim Sézary-Syndrom angewendet wird."
+        ],
+        "context_ids": [
+            "fb3f0446-cef7-4b8a-a5d1-a0a2082444a6"
+        ],
+        "answer": "Es gibt neue Therapien, die speziell für das Sézary-Syndrom entwickelt wurden. Eine davon ist Mogamulizumab, das die T-Zellen angreift und über die Vene verabreicht wird. Eine andere Methode ist die extrakorporale Photopherese, bei der Ihre Blutzellen mit UV-Licht behandelt werden, nachdem Sie ein spezielles Medikament namens Psoralen eingenommen haben. Diese Photopherese wird oft in Kombination mit einer anderen Therapie wie Interferon-α verwendet.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie wirkt sich die Behandlung mit Tyrosinkinase-Hemmern auf das Überleben bei Philadelphia-positive ALL aus?",
+        "context": [
+            "Tyrosinkinase-Hemmer Tyrosinkinase-Hemmer (TKI), wie Imatinib, Dasatinib und Nilotinib, kommen bei der Philadelphia-positiven ALL zum Einsatz. Ponatinib ist eine weitere Substanz aus dieser Medikamenten-Gruppe, die bei Vorliegen einer bestimmten genetischen Veränderung (T315I), die zu Therapieresistenz führt, im Unterschied zu allen anderen TKIs eine Wirksamkeit gezeigt hat. Wichtig ist zu beachten, dass die Philadelphia-like ALL, eine gar nicht so seltene Unterform der ALL, nicht auf Imatinib anspricht. \n Die Philadelphia-positive ALL war früher die Leukämie mit dem ungünstigsten Verlauf. Dies hat sich mit der Einführung der Tyrosinkinase-Hemmer geändert. Mit alleiniger Chemotherapie haben ca. 10 % der Patienten überlebt. Mit Stamm- zelltransplantation ohne Imatinib sind es ca. 30%. Wenn sowohl Imatinib als auch eine Stammzelltransplantation zum Einsatz kommen, liegt das Überleben bei mehr als 70%. Dieser Wert ist so gut, dass inzwischen überlegt wird, wie man die Nebenwirkungen der Therapie bei 4"
+        ],
+        "context_ids": [
+            "83aee88f-033a-459c-b349-3a7e9069417e"
+        ],
+        "answer": "Die Behandlung mit Tyrosinkinase-Hemmern, wie Imatinib, hat die Überlebensrate bei Patienten mit Philadelphia-positiver ALL deutlich verbessert. Früher lebten nur etwa 10 % der Patienten mit Chemotherapie und 30 % mit einer Stammzelltransplantation. Wenn beide Therapien, also Imatinib und eine Stammzelltransplantation, kombiniert werden, überleben mehr als 70 % der Patienten. Das zeigt, dass diese Behandlungsform sehr effektiv ist.",
+        "keep": "y"
+    },
+    {
+        "question": "Was ist Fatigue und wie kann ein Fatigue-Coaching mir helfen?",
+        "context": [
+            "Trotz der weiten Verbreitung der Fatigue ist vielen Ärzten die Erkrankung nicht vertraut, sodass es zu nicht passenden Empfehlungen kommt. Dabei gibt es klare Handlungsempfehlungen. Inhalte von Broschüren sind aufgrund der kognitiven Einschränkung jedoch schwer zu erfassen und umzusetzen. Eine wertvolle Hilfe kann hier gegebenenfalls ein Fatigue-Coaching sein. Es ist speziell an die Bedürfnisse von Fatigue-Betroffenen ausgerichtet, sodass sie ihre Energie Schritt für Schritt wiedergewinnen können - ohne dabei überfordert zu werden. Kurze Videos in leicht verständlicher Sprache, die im eigenen Tempo angesehen werden können, vermitteln wissenschaftlich evaluierte und von Betroffenen getestete Methoden und Strategien. Anhand von ein5"
+        ],
+        "context_ids": [
+            "f67e398a-fec9-42c5-bc97-3aabdcc65dcb"
+        ],
+        "answer": "Fatigue ist eine ständige Müdigkeit, die nicht durch Ruhe oder Schlaf behoben wird. Sie kann die Lebensqualität stark beeinträchtigen. Ein Fatigue-Coaching kann Ihnen helfen, Ihre Energie langsam und in kleinen Schritten zurückzugewinnen, ohne dass Sie sich überfordert fühlen. Dabei werden Methoden und Strategien genutzt, die leicht verständlich sind und von anderen Betroffenen erprobt wurden. So lernen Sie, besser mit Ihrer Müdigkeit umzugehen.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind die Nebenwirkungen der Therapie mit bispezifischen Antikörpern und wie werden sie behandelt?",
+        "context": [
+            "Neurotoxizität (Schädigung des Nervensystems). Diese Nebenwirkungen sind in der Regel gut zu beherrschen. Aufgrund dieser ist jedoch die Therapie mit einem Krankenhausaufenthalt von etwa 3 Wochen verbunden.\nBispezifische Antikörper 2022 erfolgte die Zulassung des bispezifischen Antikörpers Mosunetuzumab ab der dritten Therapielinie beim Follikulären Lymphom. Bispezifische Antikörper haben die Eigenschaft, die körpereigenen Abwehrzellen (T-Lymphozyten) an die Lymphomzelle heranzuführen, so dass sie diese eliminieren. Ebenso wie die CAR-T-Zell-Therapie ist der große Vorteil dieser Therapie, dass es sich nicht um klassische Chemotherapie mit den entsprechenden Nebenwirkungen handelt. Auch hier zeigt sich eine hohe Ansprechrate und insbesondere eine langfristige Wirksamkeit, was bei einer chronischen Erkrankung wie dem Follikulären Lymphom entscheidend ist. \n In Kürze werden weitere bispezifische Antikörper für das Follikuläre Lymphom zugelassen, so dass die Therapieauswahl noch größer wird. \n Die Hauptnebenwirkung besteht - wie bei der CAR-T-Zell-Therapie - in einer Aktivierung des Immunsystems mit der Folge eines ZytokinFreisetzungssyndroms."
+        ],
+        "context_ids": [
+            "ffdb754e-fe1a-4dcb-951c-18637c45ab84"
+        ],
+        "answer": "Die Hauptnebenwirkung der Therapie mit bispezifischen Antikörpern ist die Aktivierung des Immunsystems. Dies kann zu einem sogenannten Zytokinfreisetzungssyndrom führen. Diese Nebenwirkungen sind in der Regel gut zu kontrollieren, und man wird während der Behandlung sorgfältig überwacht. Ein Krankenhausaufenthalt von etwa 3 Wochen kann notwendig sein, um sicherzustellen, dass alles gut verläuft und eventuelle Nebenwirkungen schnell behandelt werden können.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie funktioniert die CAR-T-Zell-Therapie genau?",
+        "context": [
+            "CAR-T-Zell-Therapie Bei der CAR-T-Zell-Therapie werden körpereigene und funktionsfähige T-Zell-Zellen aus dem Blut des an Krebs Erkrankten entnommen. Diese werden genetisch dahingehend verändert, dass sie einen Rezeptor auf ihren Zelloberflächen bilden, der die Krebszellen erkennt. Sodann werden diese CAR-T-Zellen vermehrt und dem Erkrankten nach einer milden Chemotherapie über die Vene gegeben. \n Nach der Etablierung im Körper vermögen die CAR-T-Zellen an die Krebszellen zu binden und diese abzutöten. Die maximale Effektivität wird jedoch erst nach Wochen bis Monaten erreicht. Die CAR-T-Zellen verbleiben lebenslang im Körper. Man geht davon aus, dass sie eventuell noch im Körper verbliebene Krebszellen abtöten und dadurch einem Rückfall der Erkrankung entgegenwirken. Eine Übersicht über den Aufbau der CAR-T-Zellen als eine personalisierte Immuntherapie und deren Wirkung gibt Abbildung 3. \n Bislang sind in Deutschland sechs CAR-TZell-Produkte für die Behandlung folgender Erkrankungen bei Rückfällen oder bei NichtAnsprechen auf die Behandlung zugelassen:"
+        ],
+        "context_ids": [
+            "31da382b-ecbf-4ddd-9a12-12d808f627c3"
+        ],
+        "answer": "Bei der CAR-T-Zell-Therapie werden zunächst T-Zellen aus Ihrem Blut entnommen. Diese Zellen werden dann im Labor so verändert, dass sie Krebszellen besser erkennen können. Nach dieser Veränderung werden die Zellen vermehrt und Ihnen nach einer milden Chemotherapie wieder injiziert. Im Körper können diese CAR-T-Zellen dann an die Krebszellen binden und sie abtöten. Es kann Wochen bis Monate dauern, bis die Therapie ihre maximale Wirkung zeigt, aber die CAR-T-Zellen bleiben für immer in Ihrem Körper, um eventuell verbliebene Krebszellen bekämpfen zu können.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie kann ich die richtige Intensität für mein Training einschätzen?",
+        "context": [
+            "Richtige Intensität Mittels der sogenannten Borg-Skala kann aus Sicht des Patienten die Intensität körperlicher Aktivitäten eingeschätzt werden. Die Skala reicht von „sehr, sehr leicht“ bis „sehr, sehr anstrengend“. Was dabei z.B. „anstrengend“ bedeutet, kann individuell sehr unterschiedlich sein. Je nachdem, ob man eher Krafttraining oder eher Ausdauertraining machen möchte, sollte das Training „etwas anstrengend“ oder „anstrengend“ sein. Der Trainingsreiz muss dabei adäquat sein, d.h. das Training sollte mit einer gewissen Belastung einhergehen. Man sollte spüren, dass das Herz schneller schlägt und dass man schneller atmet. BORG-Skala zur Einschätzung der Intensität von Aktivitäten"
+        ],
+        "context_ids": [
+            "2e61a6c6-048e-4539-9a81-1d2f8a8dcc91"
+        ],
+        "answer": "Du kannst die Borg-Skala verwenden, um die Intensität deiner körperlichen Aktivitäten einzuschätzen. Die Skala reicht von \"sehr, sehr leicht\" bis \"sehr, sehr anstrengend\". Wenn dein Training \"etwas anstrengend\" bis \"anstrengend\" ist, ist das in der Regel gut. Du solltest dein Herz schneller schlagen und schneller atmen spüren. Höre auf deinen Körper, um sicherzugehen, dass die Belastung für dich passend ist.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie wird das Burkitt-Lymphom behandelt und was kann ich erwarten?",
+        "context": [
+            "Therapie des Burkitt-Lymphoms Das Burkitt-Lymphom wird heute nach dem BALL/B-NHL-Protokoll behandelt, welches aus der Kinderheilkunde übernommen und angepasst wurde. Es handelt sich um ein komplexes und intensives Polychemotherapie-Schema in Kombination mit Rituximab. Es wird in 6 Blöcken und 3-wöchigen Intervallen verabreicht. Dieses komplexe Protokoll beinhaltet unter anderem das Medikament Methotrexat, welches dafür bekannt ist, dass es die Mundschleimhaut schädigt. [Zum Burkitt-Lymphom siehe auch DLH-INFO- Blatt „Burkitt-Lymphome“]."
+        ],
+        "context_ids": [
+            "5de87806-b2b0-4f78-8ab3-75fa5ce02489"
+        ],
+        "answer": "Das Burkitt-Lymphom wird mit einem speziellen Behandlungsplan behandelt, der aus mehreren Chemotherapie-Sitzungen besteht. Dieser Plan wird in sechs Blöcken durchgeführt, die alle drei Wochen stattfinden. Zu den verwendeten Medikamenten gehört auch Rituximab, und eines der Medikamente, Methotrexat, kann die Mundschleimhaut schädigen. Während der Behandlung können also Veränderungen im Mund auftreten, die Sie möglicherweise bemerken werden.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie kann ich mein Gewicht gesund reduzieren, um das Krebsrisiko zu senken?",
+        "context": [
+            "5 \n Empfehlungen des WCRF Der World Cancer Research Fund (WCRF) - eine engagierte wissenschaftliche Stiftung - hat Empfehlungen zur Krebsprävention zusammengestellt, die weltweit von unterschiedlichen Expertengruppen und nationalen Gesellschaften unterstützt und die ständig aktualisiert werden. Die Empfehlungen gelten für alle Menschen, die nicht an einer aktiven Tumorerkrankung leiden, d.h. für alle, bei denen bisher kein Tumor aufgetreten ist, und für alle, die von einer Tumorerkrankung geheilt werden konnten. \n So sollen übermäßiges Körperfett und eine Gewichtszunahme möglichst vermieden werden. Deshalb sollte die Energiebilanz ausgeglichen sein. Des Weiteren sollte man jeden Tag körperlich aktiv sein und sich für etwa 3045 Minuten pro Tag körperlich anstrengen. \n Bei erheblichem Übergewicht ist es sinnvoll, professionelle Unterstützung für eine gesundheitsverträgliche Gewichtsreduktion in Anspruch zu nehmen. Bei geringem Übergewicht ist es dagegen hilfreicher, ausgewogen zu essen und regelmäßig körperlich aktiv zu sein als sich zu sehr allein auf eine Gewichtsveränderung - z.B. durch Diäten oder Hungerkuren - zu konzentrieren."
+        ],
+        "context_ids": [
+            "111e900a-8f51-4084-aee1-9cd1a5ccbab2"
+        ],
+        "answer": "Um dein Gewicht gesund zu reduzieren und dein Krebsrisiko zu senken, solltest du versuchen, ein gesundes Gleichgewicht zwischen Kalorienaufnahme und -verbrauch zu halten. Es ist wichtig, jeden Tag etwa 30 bis 45 Minuten aktiv zu sein, also z.B. durch Spaziergänge, Radfahren oder andere Sportarten. Wenn du stark übergewichtig bist, kann es hilfreich sein, professionelle Unterstützung zu suchen. Wenn dein Übergewicht leicht ist, konzentriere dich mehr auf ausgewogene Ernährung und regelmäßige Bewegung, anstatt nur an einer schnellen Gewichtsreduktion zu arbeiten.",
+        "keep": "y"
+    },
+    {
+        "question": "Wo kann ich mehr über die Reha-Programme für CML-Patienten erfahren?",
+        "context": [
+            "CML-spezifische Reha U.a. in Bad Berka, Bad Kissingen und Bad Oexen wird ein Rehabilitationsprogramm angeboten, das speziell auf die Bedürfnisse von CML-Patienten ausgerichtet ist. [Interessenten können sich wegen näherer Informationen an die DLH-Geschäftsstelle wenden]."
+        ],
+        "context_ids": [
+            "de3cc531-d12f-4a90-ab4c-521a47ab7a2e"
+        ],
+        "answer": "Sie können sich an die DLH-Geschäftsstelle wenden, um mehr Informationen über die Reha-Programme in Bad Berka, Bad Kissingen und Bad Oexen zu erhalten.",
+        "keep": "n"
+    },
+    {
+        "question": "Welche neuen Behandlungsmöglichkeiten gibt es für Patienten mit akuter myeloischer Leukämie (AML)?",
+        "context": [
+            "verfügbare Hemmstoffe heißen Ivosidenib (gegen IDH1) und Enasidenib (gegen IDH2). Diese haben sich in frühen klinischen Prüfungen (Phase I, Phase II) bewährt und werden aktuell in großen multinationalen Studien der Phase III untersucht. \n Neben diesen sehr zielgerichteten Strategien sind neue, breitere Therapieansätze bei der AML eingeführt worden. AML-Patienten mit einer hohen Ausprägung des Oberflächenmarkers „CD33“ und bestimmten günstigen Risikomerkmalen können mit einem Anti-CD33Antikörper, an den ein Zytostatikum gekoppelt wurde, behandelt werden. Das Medikament heißt Gemtuzumab Ozogamicin. Ferner hat die klassische 7+3–Medikation aus Cytarabin und Daunorubicin eine neue „Verpackung“ erhalten. Diese besteht aus Fettmolekülen (Liposomen). Das Medikament, als CPX351 bezeichnet, ist für bestimmte AML-Patienten zugelassen und für andere in Erprobung."
+        ],
+        "context_ids": [
+            "f7f29ca4-80a5-4949-a055-487738333526"
+        ],
+        "answer": "Es gibt einige neue Behandlungsmöglichkeiten für AML-Patienten. Zum Beispiel können Patienten mit hohen Mengen des Oberflächenmarkers „CD33“ mit einem Antikörper namens Gemtuzumab Ozogamicin behandelt werden, der mit einem Chemotherapeutikum kombiniert ist. Außerdem gibt es ein neues Medikament namens CPX351, das aus zwei bekannten Medikamenten, Cytarabin und Daunorubicin, in einer speziellen Formulierung besteht. Beide Ansätze sind vielversprechend und werden in großen Studien weiter untersucht.",
+        "keep": "y"
+    },
+    {
+        "question": "Was ist ein primäres ZNS-Lymphom und wie unterscheidet es sich von einem sekundären ZNS-Lymphom?",
+        "context": [
+            "ZNS-Lymphome Textbeitrag von Prof. Dr. Gerald Illerhaus, Klinikum Stuttgart, und PD Dr. Elisabeth Schorb, Universitätsklinkum Freiburg. Aktualisiert in 6/2023. \n [Erläuterungen zu Fachbegriffen und Abkürzungen siehe Textende]\nAllgemeines Der Begriff „malignes Lymphom“ bezeichnet die Vermehrung bösartig veränderter Immunzellen (Lymphozyten), die sich im gesamten Körper ansammeln können. Das ZNS-Lymphom ist eine seltene Unterform dieser Erkrankung, bei der sich die Lymphomzellen im zentralen Nervensystem (ZNS) finden. Zum ZNS gehören Gehirn, Rückenmark, Nervenwasser und der innere Teil des Auges. Es wird grundsätzlich zwischen einem primären und sekundären ZNS-Lymphom unterschieden. Beim primären ZNS-Lymphom sind die bösartigen Immunzellen bei der Erstdiagnose der Erkrankung auf das zentrale Nervensystem begrenzt. Ein sekundäres ZNS-Lymphom hingegen ist definiert als ein Lymphombefall im ZNS bei entweder zuvor oder zeitgleich außerhalb des ZNS aufgetretenem Lymphom. Die Behandlung sekundärer ZNSLymphome muss in Zusammenhang mit der zugrundeliegenden Lymphomerkrankung außerhalb des ZNS betrachtet werden. Bei alleinigem ZNS-Befall werden sekundäre ZNS-Lymphome (Befall im ZNS nach zunächst erfolgreicher Lymphom-Behandlung) nach den gleichen Prinzipien wie primäre ZNS-Lymphome behandelt. Die nachstehenden Informationen beziehen sich auf das primäre ZNS-Lymphom. \n Hierbei handelt es sich meist um schnell wachsende Lymphome vom Typ des Diffusen Großzelligen B-Zell-Lymphoms. Die Erkrankung ist sehr selten, in Deutschland erkranken jährlich ca. 400-800 Menschen. Dies entspricht ca. 3-5% aller Hirntumoren und ca. 1% aller Lymphomerkrankungen."
+        ],
+        "context_ids": [
+            "d6537832-19ab-4ec0-a105-5b587429e8ab"
+        ],
+        "answer": "Ein primäres ZNS-Lymphom ist eine Art von Krebs, bei dem sich bösartige Immunzellen nur im zentralen Nervensystem, also im Gehirn und Rückenmark, befinden. Es ist bei der Erstdiagnose auf diese Bereiche beschränkt. Im Gegensatz dazu hat ein sekundäres ZNS-Lymphom seine Wurzeln in einem Lymphom, das bereits außerhalb des zentralen Nervensystems aufgetreten ist. Wenn das Lymphom dann auch das ZNS betrifft, handelt es sich um ein sekundäres ZNS-Lymphom.",
+        "keep": "y"
+    },
+    {
+        "question": "Was bedeutet es, wenn bei mir eine komplette Remission durch die Hochdosis-Chemotherapie erreicht wird?",
+        "context": [
+            "Hochdosis-Chemotherapie In Studien konnte gezeigt werden, dass durch die Hochdosischemotherapie mit Melphalan in einer Dosis von 200 mg/m2 bei bis zu 50% der Patienten eine komplette Remission erreicht werden kann. Patienten mit diesem Behandlungsergebnis haben eine gute Langzeitprognose. Die Möglichkeit der Behandlung mit Hochdosis-Melphalan sollte bei jedem Patienten mit systemischer AL-Amyloidose, der jünger als 65-70 Jahre ist, geprüft werden, jedoch zeigt der klinische Alltag, dass bei Erstdiagnose nur wenige Patienten (ca. 20%) für diese Therapie geeignet sind."
+        ],
+        "context_ids": [
+            "ee62f066-1a51-4388-9707-286c1cd46d62"
+        ],
+        "answer": "Eine komplette Remission bedeutet, dass die Krankheit nicht mehr nachweisbar ist und alle Symptome verschwunden sind. Wenn dies durch die Hochdosis-Chemotherapie mit Melphalan erreicht wird, haben Sie gute Chancen auf eine bessere Lebensqualität und eine längere Lebensdauer. Es ist wichtig, dass Ihr Arzt die geeignete Behandlungsmethode für Sie findet.",
+        "keep": "y"
+    },
+    {
+        "question": "Welche Behandlungsmöglichkeiten gibt es für ältere Patienten mit ZNS-Lymphom?",
+        "context": [
+            "Besonderheiten bei der Behandlung älterer Patienten Ungefähr die Hälfte aller Patienten mit Erstdiagnose eines ZNS-Lymphoms ist bei der Diagnosestellung 60 Jahre oder älter. Einige dieser Patienten sind fit genug für eine intensive Behandlung. Geeignete ältere Patienten wurden daher bis Mitte 2020 im Rahmen der MARTA-Studie mit einer altersangepassten intensiven Therapie mittels HDTASCT behandelt. Auch diese Ergebnisse wurden im Rahmen des Amerikanischen Hämatologenkongresses 2022 präsentiert. Es zeigte sich eine gute Wirksamkeit der HDTASZT auch im fortgeschrittenen Alter. Die Patienten, die das gesamte Therapieprotokoll inklusive HDT-ASCT durchliefen, profitierten in ähnlichem Ausmaß wie jüngere Patienten. \n Für andere Patienten sind intensive Therapieformen aufgrund von reduziertem Allgemeinzustand oder Begleiterkrankungen nicht geeignet. Hier kommen häufig weniger aggressive Therapieprotokolle wie beispielsweise Methotrexat/Rituximab, möglichst in Kombination mit einer Chemotherapie in Tablettenform, wie beispielsweise Procarbazin oder Temozolomid, zum Einsatz."
+        ],
+        "context_ids": [
+            "dd8efc6b-4f7e-472b-894b-357fe8dfb90a"
+        ],
+        "answer": "Ältere Patienten mit ZNS-Lymphom haben verschiedene Behandlungsmöglichkeiten. Einige sind für eine intensive Therapie geeignet, die in der MARTA-Studie getestet wurde. Diese Behandlung kann sehr wirksam sein, auch bei älteren Patienten. Wenn jedoch der Allgemeinzustand nicht gut ist oder andere Erkrankungen vorliegen, werden oft weniger aggressive Therapien eingesetzt, wie zum Beispiel eine Kombination aus Methotrexat und Rituximab zusammen mit Tabletten-Chemotherapien wie Procarbazin oder Temozolomid.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sollte ich tun, wenn ich nach dem Absetzen meiner Medikation Gelenkschmerzen habe?",
+        "context": [
+            "Nebenwirkungen durch Absetzen Erstaunlicherweise kann auch das Absetzen mit Nebenwirkungen einhergehen. Etwa 30% der Patienten klagen über Schmerzen, insbesondere an den Fingergelenken und an den großen Gelenken. Die Schmerzen können sich verlagern und sind von wechselnder Intensität. \n Bevor ein Patient absetzt, muss er über diese Nebenwirkung aufgeklärt werden. Behandelt wird mit Schmerzmitteln wie Paracetamol oder ASS. Wenn dies nicht ausreichend wirksam ist, kommt Cortison zum Einsatz. In einigen Fällen kann Physiotherapie unterstützend Linderung verschaffen. \n Dadurch, dass man nicht damit gerechnet hat, dass ein solches Syndrom nach dem Absetzen auftreten könnte, wurde die Schmerzsymptomatik in den frühen Absetzstudien noch nicht systematisch erfasst. \n Das Schmerzsyndrom tritt etwa ein bis zwei Monate nach dem Absetzen auf und verschwindet üblicherweise nach etwa sechs bis sieben Monaten. Bei einigen Patienten - bei weniger als 5% - hält es länger an. Dass sich die Schmerzen sogar verschlechtern, ist selten. Es gibt Hinweise darauf, dass bei längerer Dauer der TKI-Therapie das Schmerzsyndrom häufiger auftritt."
+        ],
+        "context_ids": [
+            "51c08867-a184-4c56-907c-98acb015cc61"
+        ],
+        "answer": "Wenn Sie nach dem Absetzen Ihrer Medikation Gelenkschmerzen haben, können Sie Schmerzmittel wie Paracetamol oder ASS verwenden, um die Schmerzen zu lindern. Wenn diese nicht helfen, sollten Sie mit Ihrem Arzt über die Möglichkeit von Cortison sprechen. Manche Patienten finden auch Hilfe durch Physiotherapie. Es ist wichtig, dass Sie mit Ihrem Arzt sprechen, bevor Sie Maßnahmen ergreifen.",
+        "keep": "y"
+    },
+    {
+        "question": "Sollte ich mich impfen lassen, wenn ich kleine Kinder betreue?",
+        "context": [
+            "Rotavirusimpfung Ob Patienten, die sich um kleine Kinder kümmern und deren Windeln wechseln, gegen das Rotavirus, einen Durchfallerreger, geimpft werden sollten, muss im Einzelfall mit den behandelnden Ärzten besprochen werden. Ärzte können gegebenenfalls einen Rat Impfungen, über die mit dem behandelnden Hausarzt oder Onkologen gesprochen werden sollte (bei einigen Krankheiten gibt es sowohl Tot- als auch Lebendimpfungen, die aber nicht alle aufgeführt sind)"
+        ],
+        "context_ids": [
+            "d6db61c2-025f-437b-90e2-a6b63abea852"
+        ],
+        "answer": "Ob Sie sich impfen lassen sollten, hängt von verschiedenen Faktoren ab und sollte mit Ihrem Arzt besprochen werden. Es ist wichtig, dass Sie mit Ihrem Hausarzt oder Onkologen darüber reden, um die beste Entscheidung für Ihre Gesundheit zu treffen.",
+        "keep": "y"
+    },
+    {
+        "question": "Wie kann ich erkennen, ob ich Fatigue oder Depression habe?",
+        "context": [
+            "Abgrenzung von Fatigue und Depression Obwohl sich Fatigue und Depression im Hinblick auf die Symptome ähneln, lassen sich die Erkrankungen anhand einiger Merkmale unterscheiden. \n Im Falle der Depression liegt primär eine emotionale Leere vor. Eine Aktivierung der Patienten ist in der Regel hilfreich, ebenso die Einnahme von Antidepressiva. Den größten Energieschub haben die Patienten häufig am Nachmittag. \n Im Gegensatz hierzu spielt sich Fatigue vorwiegend auf der körperlichen Ebene ab, sie kann jedoch auch eine Depression auslösen. Bei nicht an die geringe Leistungsfähigkeit angepasster und somit zu starker Aktivierung der Patienten tritt häufig ein starker und Tage andauernden Zusammenbruch auf, der sogenannte „Crash“. Antidepressiva zeigen keine Wirkung. Die meiste Energie haben Patienten mit Fatigue häufig am Vormittag. Zudem vermögen sie, ihre eigene Erkrankung von einer Depression auf der Gefühlsebene zu unterscheiden."
+        ],
+        "context_ids": [
+            "f7e7d57e-29c2-47cf-a596-b7cd44d48016"
+        ],
+        "answer": "Fatigue und Depression haben einige ähnliche Symptome, aber sie sind unterschiedlich. Wenn du dich emotional leer fühlst und dir aktivieren hilft, könnte das auf eine Depression hindeuten. Im Gegensatz dazu ist Fatigue eher körperlich und kann dazu führen, dass du dich sehr müde und erschöpft fühlst. Bei Fatigue gibt es oft mehr Energie am Vormittag. Wenn diese Erschöpfung stark wird und nicht besser wird, könnte es sein, dass du einen 'Crash' erlebst. Antidepressiva helfen bei Fatigue nicht, während sie bei Depressionen oft helfen. Es ist wichtig, dass du mit einem Arzt sprichst, um die richtige Diagnose zu bekommen.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind die Gründe, warum jemand ZNS-Lymphome bekommen könnte?",
+        "context": [
+            "Die Entstehung von ZNS-Lymphomen ist aktuell noch unzureichend geklärt. Bei Patienten mit unterschiedlichen Formen einer Immunschwäche wie beispielsweise einer HIVErkrankung oder nach Organtransplantation tritt die Erkrankung gehäuft auf. Sonstige Risikofaktoren für die Entstehung der Erkrankung sind hingegen nicht bekannt."
+        ],
+        "context_ids": [
+            "6ead0113-73d0-4fdd-8f4a-828f4d1fa4e0"
+        ],
+        "answer": "Die genauen Gründe, warum ZNS-Lymphome entstehen, sind noch nicht gut verstanden. Es ist bekannt, dass Menschen mit Immunschwäche, wie zum Beispiel bei HIV oder nach einer Organtransplantation, ein höheres Risiko haben, diese Krankheit zu bekommen. Für andere Risikofaktoren gibt es bisher keine klaren Erkenntnisse.",
+        "keep": "y"
+    },
+    {
+        "question": "Was sind kutane Lymphome und wie werden sie behandelt?",
+        "context": [
+            "3\nZusammenfassung Kutane Lymphome sind eine Gruppe verschiedener, in der Mehrzahl der Fälle für lange Zeit, manchmal für immer, auf das Hautorgan beschränkt bleibender Lymphome. Mit den aktuell zur Verfügung stehenden Therapien werden diese stadiengerecht bei möglichst erhaltener Lebensqualität und mit möglichst geringen Nebenwirkungen behandelt."
+        ],
+        "context_ids": [
+            "daeb27cc-eded-4321-98b2-4c9c186770aa"
+        ],
+        "answer": "Kutane Lymphome sind eine Art von Krebserkrankungen, die hauptsächlich die Haut betreffen. Die Behandlung zielt darauf ab, die Lebensqualität zu erhalten und Nebenwirkungen zu minimieren. Es gibt verschiedene Therapien, die je nach Stadium der Erkrankung eingesetzt werden.",
+        "keep": "y"
+    },
+    {
+        "question": "Was bedeutet es, dass ich im Rückfall bin und welche Therapieoptionen habe ich?",
+        "context": [
+            "Therapie im Rückfall (Rezidiv) Generell kann empfohlen werden, eine Alemtuzumab-basierte Therapie zu wiederholen, wenn der Antikörper bei der ersten Anwendung zu einem Ansprechen geführt hat. Bei manchen Patienten kommt es im Laufe der Erkrankung zu einem Verlust des Oberflächenmarkers CD52, gegen den Alemtuzumab gerichtet ist. Deshalb sollte vor Beginn einer Rückfalltherapie erneut geprüft werden, ob die Tumorzellen nach wie vor CD52 auf ihrer Oberfläche tragen, damit keine wirkungslose Therapie verabreicht wird. Aktuelle Optionen im Rückfall, wie z.B. die Substanz Bendamustin, sind nur von moderater Wirksamkeit. Eine allogene Stammzelltransplantation ist im Rückfall weniger wirksam und nebenwirkungsreicher als in der sog. Erstlinie. 4"
+        ],
+        "context_ids": [
+            "9e5e2195-72fe-427f-b07a-ad51b2881422"
+        ],
+        "answer": "Wenn Sie im Rückfall sind, bedeutet das, dass Ihre Krankheit nach einer Behandlung wieder zurückgekehrt ist. Eine Möglichkeit wäre, die Therapie mit Alemtuzumab erneut anzuwenden, wenn sie bei der ersten Behandlung geholfen hat. Vor der Therapie sollten die Ärzte jedoch überprüfen, ob die Tumorzellen noch den Marker CD52 tragen, den Alemtuzumab angreift. Es gibt auch andere Optionen wie die Substanz Bendamustin, aber die sind nicht so stark. Eine Stammzelltransplantation kann auch eine Option sein, ist aber erfahrungsgemäß weniger wirksam und kann mehr Nebenwirkungen haben als bei der ersten Behandlung.",
+        "keep": "y"
+    }
+]
